@@ -14,6 +14,7 @@ I am a self-taught programmer 💻, working on personal projects. I worked in th
 
 ### Languages and Tools:
 
+<p float="left">
 <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="js">
 <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node" style="background:white;">
 <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" >
@@ -23,3 +24,4 @@ I am a self-taught programmer 💻, working on personal projects. I worked in th
 <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust" style="background:white;">
 <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" >
 <img height="30" width="" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Arm_logo_2017.svg" alt="arm" >
+</p>
